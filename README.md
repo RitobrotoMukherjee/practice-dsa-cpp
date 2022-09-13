@@ -1,8 +1,7 @@
 ![](https://img.shields.io/badge/Ritobroto-Mukherjee-blueviolet?labelColor=white)
 
 ## C++ DSA Practice
-- **It's a simple repository to practice already learned DSA concepts using CPP**
-- **Each topic of DSA has it's own name with proper naming conventions for better understanding and rivision in future**
+- **This branch is to practice sorting related problems**
 - **Few self made questions and also questions from renowned sites like `LeetCode`, `CodingNinjas`, or `Codeforces` etc are solved**
 
 ## Technology Stack
