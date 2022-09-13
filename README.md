@@ -1,56 +1,34 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Ritobroto-Mukherjee-blueviolet?labelColor=white)
 
-# Project Name
+## C++ DSA Practice
+- **It's a simple repository to practice already learned DSA concepts using CPP**
+- **Each topic of DSA has it's own name with proper naming conventions for better understanding and rivision in future**
+- **Few self made questions and also questions from renowned sites like `LeetCode`, `CodingNinjas`, or `Codeforces` etc are solved**
 
-> Description the project.
+## Technology Stack
+- VS Code (**IDE**)
+- C++ (**Programming**)
+- VS code extensions: `Code Runner` and `C/C++`
 
+## Prerequisite
+- C++ installation guide [VS Code C++ Installation](https://code.visualstudio.com/docs/languages/cpp)
 
-## Built With
+## Installation
+- clone repository ```git clone https://github.com/RitobrotoMukherjee/practice-dsa-cpp.git```
+- After Cloning ```cd practice-dsa-cpp```
 
-- Major languages
-- Frameworks
-- Technologies used
+## Run Program
+> Move to any repository and run the `Code Runner` to run program. The program will compile and create and `executable`, and it will run in your terminal.
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+## Author
 
 
+👤 **Ritobroto Mukherjee**
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Portfolio: [@Rito](https://ritobrotomukherjee.github.io/Work-Portfolio/)
+- GitHub: [@RitobrotoMukherjee](https://github.com/RitobrotoMukherjee)
+- Twitter: [@RitobrotoM3](https://twitter.com/RitobrotoM3)
+- LinkedIn: [Ritobroto Mukherjee](https://www.linkedin.com/in/ritobroto-mukherjee-519148ba/)
 
 ## 🤝 Contributing
 
@@ -63,13 +41,3 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
